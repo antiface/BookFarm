@@ -1,7 +1,6 @@
 ### BookFarm / Manufacturing / Novel-Machine
 
 #### RESOURCES
-* [universewill/novel: some original science fiction novels](https://github.com/universewill/novel)
 * [OpenSFNovels/opensfnovel01: An open-sourced science-fiction novel written by the community via the snowflake top-down method](https://github.com/OpenSFNovels/opensfnovel01)
 * [jonydev/FictionFlower: The novel of the popular TV series](https://github.com/jonydev/FictionFlower)
 * [2lbProgramming/FictionCompiler: A foolish attempt to create a new declarative language for the creation of Interactive Fiction and Visual Novels.](https://github.com/2lbProgramming/FictionCompiler)
